@@ -1,5 +1,5 @@
----
-title: Mystery Gang
-permalink: /
-template: default
-___
+# Legal Shit
+
+# Cypher System
+
+## What's Different?
