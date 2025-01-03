@@ -43,6 +43,12 @@ There are four new types specifically designed for Mystery Gang. The original Ty
 
 ### Trapper
 
+| Stat       | Starting Pool |
+| :--------  | :-------:  |
+| Might      | 0          |
+| Speed      | 0          |
+| Intellect  | 0          |
+
 ### Face
 
 ### Skeptic
