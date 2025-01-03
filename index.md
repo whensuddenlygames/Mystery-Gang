@@ -76,7 +76,70 @@ Trapper's have the following abilities
 
 ### Face
 
+| Stat       | Starting Pool |
+| :--------  | :-------:  |
+| Might      | 5          |
+| Speed      | 6          |
+| Intellect  | 9          |
+
+You get 3 additional points to divide among your stat Pools however you wish.
+
+#### First-Tier Face
+
+**Effort:** Your Effort is 1. 
+
+**Fast Talker:** You have an Intellect Edge of 1, and your Might and Speed Edge are 0. 
+
+**Cyphers Use:** You can bear two Cyphers at once.
+
+
+**Weapons:** You have an inability with all weapons.
+
+**Starting Equipment:** Appropriate clothing, plus two expensive items, two moderately priced items, and up to four inexpensive items. 
+
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
+
+- Anecdote (2 Intellect Points)
+- Babel
+- Demeanor of Command (2 Intellect Points)
+- Encouragement (1 Intellect Point)
+- Enthrall (1 Intellect Point)
+- Fast Talk (1 Intellect Point)
+- Interaction Skills
+- Spin ldentity (2+ Intellect Points)
+- Understanding (1 Intellect Point)
+
 ### Skeptic
+
+| Stat       | Starting Pool |
+| :--------  | :-------:  |
+| Might      | 4          |
+| Speed      | 6          |
+| Intellect  | 10          |
+
+You get 3 additional points to divide among your stat Pools however you wish.
+
+#### First-Tier Skeptic
+
+**Effort:** Your Effort is 1. 
+
+**Genius:** You have an Intellect Edge of 1, a Might Edge of 0, and a Speed Edge of 0. Expert 
+
+**Cypher Use:** You can bear three cyphers at a time.
+
+**Starting Equipment:** Appropriate clothing, plus two expensive iterms, two moderately priced items, and up to four inexpensive items of your choice.
+
+**Weapons:** You have an inability with all weapons.
+
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
+
+- B.S. Goggles: You are skilled at seeing through lies and deceptions. Enabler
+- Decipher (1 Intellect point): If you spend one minute examining a piece of writing or code in a language you do not understand, you can make an Intellect roll of difficulty 3 (or higher, based on the complexity of the language or code) to get the gist of the message. Action to initiate.
+- Extra Skill
+- Knowledge Skills
+- Understanding
+- Scan (2 Intellect Points)
+- Skeptical (1+ Intellect Point): You are naturally skeptical of all things. The first time you encounter a monster you may spend 1 intellect point to ease your PANIC! roll. If you fail the roll you can attempt it again upon meeting the monster for an additional 1 point of intellect.
 
 ### Decoy
 
