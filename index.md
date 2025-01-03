@@ -1,1 +1,3 @@
-
+---
+title: Mystery Gang
+___
