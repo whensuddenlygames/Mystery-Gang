@@ -55,10 +55,15 @@ You get 3 additional points to divide among your stat Pools however you wish.
 Trapper's have the following abilities
 
 **Effort:** Effort of 1 
+
 **Physical Nature:** Choose whether to start with a Might or Speed Edge of 1, set the other to 0. Your Intellect Edge is 0. 
+
 **Cypher Use:** Can bear one Cypher at a time. 
+
 **Weapons:** Practiced with light and improvised weapons of medium size.
+
 **Starting Equipment:** Appropriate clothing and one light weapon of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items. 
+
 **Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
 
 - Bash (1 Might point): This is a pummeling melee attack. Your attack inflicts 1 less point of damage than normal to human targets and dazes them for one round, during which time all tasks it performs are hindered. Action.
