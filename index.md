@@ -143,5 +143,108 @@ You get 3 additional points to divide among your stat Pools however you wish.
 
 ### Decoy
 
+| Stat       | Starting Pool |
+| :--------  | :-------:  |
+| Might      | 5          |
+| Speed      | 9          |
+| Intellect  | 5          |
 
+You get 3 additional points to divide among your stat Pools however you wish.
 
+#### First-Tier Decoy
+
+**Effort:** Your starting Effort is 1. 
+
+**Speedy:** Your Speed Edge is 1, your Might and Intellect Edge are 0.
+
+**Cypher Use:** You can beat two cyphers at any one timne.
+
+**Weapons:** Practiced with light with an inability with medium and heavy weapons. 
+
+**Starting Equipment:** Appropriate clothing and one light weapon of your choice, plus one expensive item, two moderately priced items, and up to four inexpensive items. 
+
+**Special Abilities:** Choose four of the abilities listed below. You can't choose the same ability more than once unless its description says otherwise. The full description for each listed ability can be found in Abilities, which also has descriptions for flavor and focus abilities in a single vast catalog.
+
+- Block
+- Danger Sense
+- Distraction (1+ Intellect Point): You make a big scene, pulling a target's attention to you. All tasks are eased for other players against this target for one round. All your actions towards the target are hindered. You can continue to spend 1 Intellect point per round to keep the target's attention. Action.
+- Find the Way
+- Fleet of Foot
+- Improved Edge
+- Snacks (2+ Speed Points): You quickly produce snacks to aid your allies. Any ally that eats your snacks has all of their PANIC! rolls eased by 1. For each speed Intellect beyond the first 2 points you spend you may feed another ally.
+
+## Descriptions
+
+Currently unchanged from the SRD
+
+## Focus
+
+Here is the curated list of Foci to choose from. These can be found kn the SRD.
+
+- Doesn't Do Much
+- Defends the Weak
+- Drives Like A Maniac
+- Entertains
+- Helps Their Friends
+- ldolized By Millions
+- Leads
+- Learns Quickly
+- Lives in the Wilderness
+- Masters Defense
+- Moves Like a Cat
+- Never Says Die
+- Operates Undercover
+- Plays Too Many Games
+- Runs Away
+- Solves Mysteries
+- Works for a Living
+- Works the Back Alleys
+- Works the System
+- Would Rather Be Reading
+
+## PANIC!
+
+When the darkness draws closer and the hot breath of a monster hits the back of your neck, the panic sets in. It grows and grows until your body takes overrides your mind and takes flight! 
+
+Each character has their own PANIC! level along with a group level. At the start of the Mystery, eash is set to 0. Through the course of play this level will rise, eventually leading to a chase!
+
+A PC's PANIC! is maxed at 3
+The group PANIC! is maxed at 10.
+
+### How PANIC! Raises
+
+#### Personal
+- Whenever a PC receives enough damage equal to their Tier x 3 their PANIC! raises by 1 level.
+- As the result of a Nat 1 from a GM Intrusion.
+- The PC may add 1 level of PANIC! in order to re-roll one failed check.
+- Anytime something particularly spooky happens!
+
+#### Group
+- As the result of a Nat 1 from a GM Intrusion.
+- Whenever a single PC's PANIC! level reaches their Tier + 1
+- The first time the party encounters the monster (not all PCs need to be present)
+- Anytime the group discovere a dead body.
+
+### Reducing PANIC!
+- As a Major Effect the player may reduce their PANIC! by 2 or group PANIC! by 2.
+- As a Minor Effect the player may reduce their PANIC! by 1 or group PANIC! by 1.
+- After a chase the group PANIC! resets to 0.
+- PCs may lower personal PANIC! by 1 after divulging a secret about their character to the group.
+
+### Using PANIC!
+
+A character's personal PANIC! level contributes to the difficulty of the monster's level when determining rolls against it during the chase. See The Chase for more details.
+
+Whenever the group PANIC! level reaches 3, the inciting player must roll against it. They may choose any stat appropriate for the roll to help ease it. If the roll fails, the PCs instantly PANIC! and a chase begins.
+
+If the roll is successful the group PANIC! level continues to raise as normal. At level 6 the group must roll again. Then again at 9 and 10.
+
+## The Chase
+Whenever the party fails a PANIC! roll the monster instantly appears and gives chase.
+
+The level of the chase is the monster's level + each character's personal PANIC! level.
+
+### Escaping
+To escape, the PCs take turns describing their wacky hijinks. After their description they make their roll. If successful they are free to assist other PCs escape through further hijinks.
+
+Once the chase is over the group PANIC! resets to 0. However, after each chase GM Intrusions increase by 1 level. Meaning after the first chase GM Intrusions are rolled on 1s and 2s. After the second, GM Intrusions are rolled on 1s, 2s, and 3s. Etc.
